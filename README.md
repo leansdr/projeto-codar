@@ -36,7 +36,15 @@ Seu desafio é criar uma página sobre uma empresa que desenvolve sites. O model
 
 # Techs: 
 HTML<br>
-CSS
+CSS(SASS)
+Javascript
+
+# Como executar:
+1 - Faça um clone do repositório (git clone)<br>
+2 - Abra o projeto e execute o comando npm run sass. Caso não tenha o SASS instalado, execute o comando
+npm install sass -g
+3 - Clique no arquivo index.html para o site abrir
+
 
 # Como começar:
 1 - Use esse template ou clone esse repositório com o código inicial<br>
