@@ -1,0 +1,23 @@
+{
+  "name": "codar",
+  "version": "1.0.0",
+  "description": "<br />\r <p align=\"center\">\r   <a href=\"http://www.freepik.com\">\r     <img src=\"https://i.ibb.co/stqTkc6/video-call.png\" alt=\"Logo\" width=\"250\" height=\"200\">\r   </a>",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch assets/sass/main.scss:assets/css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lorenalgm/codar.git"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "sass": "^1.43.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lorenalgm/codar/issues"
+  },
+  "homepage": "https://github.com/Lorenalgm/codar#readme"
+}
