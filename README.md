@@ -1,7 +1,7 @@
 <br />
 <section align="center">
   <a href="http://www.freepik.com">
-    <figure width="100%" heigth="100">
+    <figure width="100%" heigth="50">
         <img src="design/desktop.png" alt="Logo">
      </figure>
     <img src="design/mobile.png" alt="Logo">
