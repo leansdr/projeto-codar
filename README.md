@@ -1,7 +1,7 @@
  
 <section>
   <h3 align="center">Codar.</h3>
-
+    <img src="assets/img/video_call.png">
   <p align="center">
     Site de uma empresa que desenvolve sites
        <br />
