@@ -1,11 +1,14 @@
 <br />
 <section align="center">
   <a href="http://www.freepik.com">
-    <img src="design/desktop.png" alt="Logo">
+    <figure width="500" heigth="500">
+        <img src="design/desktop.png" alt="Logo">
+     </figure>
     <img src="design/mobile.png" alt="Logo">
   </a>
+  </section>
  
-
+<section>
   <h3 align="center">Codar.</h3>
 
   <p align="center">
