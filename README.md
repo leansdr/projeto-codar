@@ -1,8 +1,9 @@
 <br />
-<p align="center">
+<section align="center">
   <a href="http://www.freepik.com">
     <img src="design/desktop.png" alt="Logo" width="300" height="300">
   </a>
+ 
 
   <h3 align="center">Codar.</h3>
 
@@ -14,7 +15,7 @@
     ·
     <a href="https://www.linkedin.com/in/leansdr/">Contato</a>
   </p>
-</p>
+</section>
 
 ## Índice
 
