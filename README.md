@@ -1,12 +1,3 @@
-<br />
-<section align="center">
-  <a href="http://www.freepik.com">
-    <figure width="50px" heigth="50px">
-        <img src="design/desktop.png" alt="Logo">
-     </figure>
-    <img src="design/mobile.png" alt="Logo">
-  </a>
-  </section>
  
 <section>
   <h3 align="center">Codar.</h3>
