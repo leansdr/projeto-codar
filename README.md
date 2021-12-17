@@ -42,7 +42,7 @@ Javascript
 # Como executar:
 1 - Faça um clone do repositório (git clone)<br>
 2 - Abra o projeto e execute o comando npm run sass. Caso não tenha o SASS instalado, execute o comando
-npm install sass -g
+npm install sass -g<br>
 3 - Clique no arquivo index.html para o site abrir
 
 
