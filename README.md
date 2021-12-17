@@ -1,8 +1,8 @@
 <br />
 <section align="center">
   <a href="http://www.freepik.com">
-    <img src="design/desktop.png" alt="Logo" width="300" height="300">
-    <img src="design/mobile.png" alt="Logo" width="300" height="300">
+    <img src="design/desktop.png" alt="Logo">
+    <img src="design/mobile.png" alt="Logo">
   </a>
  
 
