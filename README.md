@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="http://www.freepik.com">
-    <img src="design/desktop.png" alt="Logo" width="250" height="200">
+    <img src="design/desktop.png" alt="Logo" width="550" height="500">
   </a>
 
   <h3 align="center">Codar.</h3>
